@@ -24,9 +24,3 @@ Interested in contributing to Xieon's Gaming Corner? Here's how you can get invo
 - Check out our [Contribution Guidelines](#) for details.
 - Explore our documentation in the [Docs](#) section.
 - Join the conversation on our Discord server.
-
-## Fun Facts 🎉
-
-Ever wondered what our team eats for breakfast? Discover fun facts and more as you become part of the Xieon's Gaming Corner community!
-
-Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
