@@ -17,11 +17,25 @@ Xieon's Gaming Corner is a vibrant community that brings gamers together across 
 * Nyx: Twitch Head Moderator and Admin Support
 * Jinno: Admin Support
 
-This order is also the mangerial heirachical order - If Xieon is away Rich is in charge of the XGC Operations - Please do not bother the management staff unless its a serious issue as were cibstabtkt wirjubg trying to give our members an unique and exciting experience, and environment. 
+This order is also the mangerial heirachical order - If Xieon is away Rich is in charge of the XGC Operations - Please do not bother the management staff unless its a serious issue as were constantly trying to give our members an unique and exciting experience, and environment. 
 
 
-##$ XGC Featured Games - 
-We are a large group of gamers, with a large variety of gaming intes
+## XGC Featured Games - We are not a "Pokemon Sevver" - we are a "community gaming server" that has a high focus around Pokemon, and Pokemon content. 
+We are a large group of gamers, with a large variety of gaming intesests. We ensyupport and encourage our members to enjoy the games they are passionate about and additionally to share them with the XGC community, especially special moments like Shiny or Legendary Pokemon Encounters. 
+The following games are games that are officially supported, for lack of a better word for now, by XGC - 
+* FPS Games - Specifically Call of Duty, and HALO
+* Pokemon - From Red to DLC2 of Scarlet and Violet and everything in between. 
+* Yu-Gi-Oh - it's time to ddddddduel duelists - from the TCG to Master Duel and Duel Links - Yugioh is aother one of the big games we highlight, 
+* Who's that Pokemon - in the XGC Server we have various server games that can and are played from time to time, however one that is always running is Prof Oak asking you who is that Pokemon and first to guess it wins, this is a text based in Discord server game. 
+* DOOM - From the original -= to Doom 2016, and Doom Eternal - The inside joke is images of the "Shroom Slayer" since the mascot of XGC is a Breloom. 
+
+# Artwork:
+* XGC is heavily involved in artwork - Mike the Head of Graphics is a jack of all trades from 3D printing to imagery, and is in the process of producing merch - 
+* Xieon is the other Management Staff artist who focuses on experimenting with AI art technology, and creating attractive looking anime characters based off the traits of a pokemon. These are used for raid thumbnails, however, we are looking into offering these in other mediums, as they are ery popular with some groups of people. The groin area, asshole, and nipples are still required to be censored even on XGC's 18+ image sharing - 
+
+# XGC After Dark 
+* You are required to have a phone linked to your Twitch in order to subscribe - as an added laer of protetion. 
+We are NOT a family friendly serve, nor organization.We welcome members of all ages 13+. XGC is based out of the United States, so we must follow certain guidelines, and minors under the age of 14 cannot use our services, including Discord and Twitch. 
 
 
 These give individuals currently make up the XGC Management Team - and XGC couldn't function without them. 
