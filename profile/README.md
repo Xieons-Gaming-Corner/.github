@@ -6,6 +6,15 @@ This is the public-facing README file for Xieon's Gaming Corner - your go-to com
 
 Xieon's Gaming Corner is a vibrant community that brings gamers together across various platforms. Dive into the world of Pokemon with us and explore the diverse XGC Ecosystem.
 
+## Xieon's Gaming Corner Management Staff: 
+Xieon: Owner and Founder of XGC
+Rich: Co-Owner of XGC
+Mike: Adminn and head of XGC Graphics - we will soon have a merch store selling both XGC products anbd designs as well as mikes own work, and perhaps some of my own art ;)
+Nyx: Twitch Head Moderator and Admin Support
+Jinno: Admin Support
+
+These give individuals currently make up the XGC Management Team - and XGC couldn't function without them. 
+
 ## Connect With Us 🌐
 
 Follow us on different platforms to stay updated and engaged:
