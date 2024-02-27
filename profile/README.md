@@ -46,6 +46,9 @@ Art is at our core, with a focus on creativity and expression:
 * **Mike's Graphics:** From 3D printing to merch designs
 * **Xieon's AI Art:** Experimenting with AI to create anime characters based on Pokemon traits
 
+## XGC Sponsors Only Repository 
+* Sponsors of XGC will have access to a private repository within the XGC Organizatio Github - 
+
 ## XGC After Dark 🔞
 
 * For mature content enthusiasts, we have XGC After Dark, an exclusive section for our members aged 18 and above. To access XGC After Dark, you are required to have a phone linked to your Twitch for added protection.
@@ -56,7 +59,6 @@ Follow us on different platforms to stay updated and engaged:
 
 - **Discord**: [Join our Discord community](https://discord.gg/xieon)
 - **Twitter**: [Follow us on Twitter](https://twitter.com/XieonGaming)
-- **Instagram**: [Check out our Instagram](#)
 - **GitHub**: [Explore our projects on GitHub](https://github.com/Xieons-Gaming-Corner)
 - **YouTube**: [Subscribe to our YouTube channel](http://yt.xieon.co)
 - **Twitch**: [Watch us on Twitch](http://twitch.xieon.co)
