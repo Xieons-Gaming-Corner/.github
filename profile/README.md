@@ -5,7 +5,7 @@
 Greetings from Xieon's Gaming Corner! We are more than just a gaming community; we're a diverse group of gamers, hobbyists, artists, and developers united to create memorable experiences. Our community is supported by our dedicated staff, and we appreciate any contributions from our members.
 ## About Us 🎮
 
-* Xieon's Gaming Corner is a vibrant community that brings gamers together across various platforms, genres, games, countries, sexes, ages, races, and we are proud of our diversity because at the end of the day, our differences don't mean anything - it's whoever gets the W that matters.
+* Xieon's Gaming Corner is a vibrant community that brings gamers together across various platforms, genres, games, countries, sexes, ages, and races, and we are proud of our diversity because, at the end of the day, our differences don't mean anything - it's whoever gets the W that matters.
 
 * We do not consider ourselves a typical "family-friendly" server or organization. XGC welcomes members of all ages 13 and above, and users 18 and above are welcome to participate in our XGC After Dark Section. The reason we are not "family-friendly" is that we do not censor things such as curse words from our public channels or dark humor.
 
@@ -47,7 +47,7 @@ Art is at our core, with a focus on creativity and expression:
 * **Xieon's AI Art:** Experimenting with AI to create anime characters based on Pokemon traits
 
 ## XGC Sponsors Only Repository 
-* Sponsors of XGC will have access to a private repository within the XGC Organizatio Github - 
+* Sponsors of XGC will have access to a private repository within the XGC Organization Github - 
 
 ## XGC After Dark 🔞
 
