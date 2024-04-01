@@ -81,3 +81,7 @@ Click the image below to join our Discord server:
 [![Join XGC Discord](https://avatars.githubusercontent.com/u/150181405?s=200&v=4)](https://discord.gg/xieon)
 
 Welcome to the XGC family! 🚀🎮
+
+# Special Thanks to other Developers: 
+[Link to devcredit.md](markdownfiles/decredit.md)
+
