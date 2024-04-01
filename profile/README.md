@@ -83,6 +83,7 @@ Click the image below to join our Discord server:
 Welcome to the XGC family! 🚀🎮
 
 # Special Thanks to other Developers: 
-[Back to README](https://github.com/Xieons-Gaming-Corner/public/blob/main/README.md)
+[Link to Developer Credits/Thanks](https://github.com/Xieons-Gaming-Corner/public/blob/main/markdown_pages/developercredit.md)
+
 
 
