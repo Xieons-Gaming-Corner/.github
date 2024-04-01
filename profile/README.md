@@ -83,5 +83,5 @@ Click the image below to join our Discord server:
 Welcome to the XGC family! 🚀🎮
 
 # Special Thanks to other Developers: 
-[Link to devcredit.md](markdownfiles/decredit.md)
+[Link to devcredit.md](markdownfiles/devcredit.md)
 
