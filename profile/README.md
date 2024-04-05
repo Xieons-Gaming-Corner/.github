@@ -57,6 +57,13 @@ Art is at our core, with a focus on creativity and expression:
 * **Mike's Graphics:** From 3D printing to merch designs
 * **Xieon's AI Art:** Experimenting with AI to create anime characters based on Pokemon traits
 
+## Advancing Technologies (AI / Crypto)
+XGC tries to stay on the bleeding edge of technology for both gaming, and broader applications outside of the gaming niche. Two large branches of the rapidbly advancing bleeding edge of tech include: 
+* Artifical intelligence / machine learning / AGI / Neural Networking
+* Crytocurrency including NFT's (both in use-case and discussion)  & associated cryptographical computational elements
+* * These areas can be both exciting, and horrifying, open up new possibilities for experiences, and quickly end your ability to access or realize them - with such knowledge we try to approach these technologies with both awe & caution. We want our users to experience the bleeding edge of technology, while cautioning of the what should be obvious perils of walking on the bleeding edge of a knife - you might get cut - We will try to provide guidance, and tools within these novel tech fields
+* * * [Crypto Public Tool List & Addresses](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
+
 ## XGC Sponsors Only Repository 
 * Sponsors of XGC will have access to a private repository within the XGC Organization Github - 
 
