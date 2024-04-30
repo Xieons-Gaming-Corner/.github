@@ -14,6 +14,19 @@ Please select your target destination to fast travel to that location:
 ![XGC Banner](https://avatars.githubusercontent.com/u/150181405?s=200&v=4) <!-- Replace with an actual banner image -->
 
 Greetings from Xieon's Gaming Corner! We are more than just a gaming community; we're a diverse group of gamers, hobbyists, artists, and developers united to create memorable experiences. Our community is supported by our dedicated staff, and we appreciate any contributions from our members.
+
+## Cheating/Sportsmanship/Fair Play
+
+>* At Xieon's Gaming Corner (XGC), we uphold the principles of fair play, sportsmanship, and integrity within our community and associated games, particularly within the realm of Pokémon. While there may be debates on what constitutes cheating or acceptable behavior, we maintain a staunch stance against cheating, glitches, modified software, modified hardware, and the use of third-party devices, especially within the context of Pokémon gameplay.
+
+> * We believe in transparency and honesty in all interactions. If you choose to generate Pokémon or engage in any other non-standard practices, it is imperative to inform your opponent beforehand. This ensures that both parties can make informed decisions about their gameplay experience, whether to proceed as is, make adjustments, or opt out altogether.
+
+> * XGC adamantly opposes the distribution of illegal Pokémon within our community. Any such Pokémon are exclusively created by XGC for internal purposes, such as content creation or early model reveals. We do not condone the use of illegal Pokémon in official tournaments, and we strongly discourage members from bringing Pokémon obtained from our trade bots to such events. While we recognize the need for change within the Pokémon community, particularly regarding outdated tournament policies, we believe in upholding existing rules and regulations. Advocating for change should not come at the expense of fair competition or the integrity of the game.
+
+> * In summary, at Xieon's Gaming Corner, we prioritize fair play, sportsmanship, and honesty in all aspects of our community and associated games, fostering an environment where members can enjoy gaming responsibly and respectfully.
+
+
+
 ## About Us 🎮
 
 * Xieon's Gaming Corner is a vibrant community that brings gamers together across various platforms, genres, games, countries, sexes, ages, and races, and we are proud of our diversity because, at the end of the day, our differences don't mean anything - it's whoever gets the W that matters.
@@ -38,17 +51,25 @@ All staff members have a ⭐ leading their server nickname and trailing brackets
 * *Red usernames* for management staff.
 * _Blue usernames_ for all other staff, including full staff, moderators, retired staff with permissions, and whitelisted staff from other servers.
 
+
+# Community Discord for XGC
 For real-time interaction, spot the green, red, or blue usernames in our [Community Discord](https://discord.gg/xieon). Our management team operates in a hierarchical order, ensuring a smooth and exciting experience for our members.
+
+Click the image below to join our Discord server:
+
+> * [![Join XGC Discord](https://avatars.githubusercontent.com/u/150181405?s=200&v=4)](https://discord.gg/xieon)
+
+
 ## XGC Featured Games 🕹️
 
 While we're not just a "Pokemon Server," Pokemon is a big part of our identity. Here are some officially supported games:
 
-* FPS Games: Call of Duty, Halo, Doom
-* Pokemon: From Red to Scarlet and Violet DLC
-* Yu-Gi-Oh: TCG, Master Duel, Duel Links
-* Who's that Pokemon: A text-based game in our Discord
-* DOOM: The Shroom Slayer saga, connecting Doom and our Breloom mascot
-* Emulation and ROM's: Supporting video game archiving, retro gaming, and discussions on ROM's & Emulators.
+> * FPS Games: Call of Duty, Halo, Doom
+> * Pokemon: From Red to Scarlet and Violet DLC
+> * Yu-Gi-Oh: TCG, Master Duel, Duel Links
+? * Who's that Pokemon: A text-based game in our Discord
+> * DOOM: The Shroom Slayer saga, connecting Doom and our Breloom mascot
+> * Emulation and ROM's: Supporting video game archiving, retro gaming, and discussions on ROM's & Emulators.
 
 ## Artwork 🎨
 
@@ -59,13 +80,13 @@ Art is at our core, with a focus on creativity and expression:
 
 ## Advancing Technologies (AI / Crypto)
 XGC tries to stay on the bleeding edge of technology for both gaming, and broader applications outside of the gaming niche. Two large branches of the rapidbly advancing bleeding edge of tech include: 
-* Artifical intelligence / machine learning / AGI / Neural Networking
-* Crytocurrency including NFT's (both in use-case and discussion)  & associated cryptographical computational elements
-* * These areas can be both exciting, and horrifying, open up new possibilities for experiences, and quickly end your ability to access or realize them - with such knowledge we try to approach these technologies with both awe & caution. We want our users to experience the bleeding edge of technology, while cautioning of the what should be obvious perils of walking on the bleeding edge of a knife - you might get cut - We will try to provide guidance, and tools within these novel tech fields
-* * * [Crypto Public Tool List & Addresses](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
+> * Artifical intelligence / machine learning / AGI / Neural Networking
+> * Crytocurrency including NFT's (both in use-case and discussion)  & associated cryptographical computational elements
+> * * These areas can be both exciting, and horrifying, open up new possibilities for experiences, and quickly end your ability to access or realize them - with such knowledge we try to approach these technologies with both awe & caution. We want our users to experience the bleeding edge of technology, while cautioning of the what should be obvious perils of walking on the bleeding edge of a knife - you might get cut - We will try to provide guidance, and tools within these novel tech fields
+> * * * [Crypto Public Tool List & Addresses](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
 
 ## XGC Sponsors Only Repository 
-* Sponsors of XGC will have access to a private repository within the XGC Organization Github - 
+> * Sponsors of XGC will have access to a private repository within the XGC Organization Github - 
 
 ## XGC After Dark 🔞
 
@@ -75,21 +96,14 @@ XGC tries to stay on the bleeding edge of technology for both gaming, and broade
 
 Follow us on different platforms to stay updated and engaged:
 
-- **Discord**: [Join our Discord community](https://discord.gg/xieon)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/XieonGaming)
-- **GitHub**: [Explore our projects on GitHub](https://github.com/Xieons-Gaming-Corner)
-- **YouTube**: [Subscribe to our YouTube channel](http://yt.xieon.co)
-- **Twitch**: [Watch us on Twitch](http://twitch.xieon.co)
+> - **Discord**: [Join our Discord community](https://discord.gg/xieon)
+> - **Twitter**: [Follow us on Twitter](https://twitter.com/XieonGaming)
+> - **GitHub**: [Explore our projects on GitHub](https://github.com/Xieons-Gaming-Corner)
+> - **YouTube**: [Subscribe to our YouTube channel](http://yt.xieon.co)
+> - **Twitch**: [Watch us on Twitch](http://twitch.xieon.co)
 
 
-# Join our Discord Community 🚀
-Click the image below to join our Discord server:
-
-[![Join XGC Discord](https://avatars.githubusercontent.com/u/150181405?s=200&v=4)](https://discord.gg/xieon)
-
-Welcome to the XGC family! 🚀🎮
-
-# Special Thanks to other Developers: 
+## Special Thanks to other Developers: 
 [Link to Developer Credits/Thanks](https://github.com/Xieons-Gaming-Corner/public/blob/main/markdown_pages/developercredit.md)
 
 
