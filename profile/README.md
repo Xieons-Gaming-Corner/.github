@@ -1,5 +1,6 @@
 # LANDING ZONE: You've been cleared for landing by XGC 🛬
 
+## Xieon's Gaming Corner Social Media and Operating Platforms
 Please select your target destination to fast travel to that location:
 
 - [Discord](https://discord.gg/xieon): Join our vibrant Discord community!
@@ -7,6 +8,7 @@ Please select your target destination to fast travel to that location:
 - [Twitter](https://twitter.com/XieonGaming): Follow us on Twitter for updates and announcements!
 - [GitHub](https://github.com/Xieons-Gaming-Corner): Explore our projects and repositories on GitHub!
 - [YouTube](http://yt.xieon.co): Subscribe to our YouTube channel for videos and content!
+- [TikTok](http://www.tiktok.com/@XieonGaming): Check out or newest platform for gaming clips & demonstration of tech on TikTok
 
 
 #  👾 Xieon's Gaming Corner! 👾
