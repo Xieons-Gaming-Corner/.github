@@ -3,12 +3,12 @@
 ## Xieon's Gaming Corner Social Media and Operating Platforms
 Please select your target destination to fast travel to that location:
 
-- [Discord](https://discord.gg/xieon): Join our vibrant Discord community!
-- [Twitch](http://twitch.xieon.co): Watch our live streams on Twitch!
-- [Twitter](https://twitter.com/XieonGaming): Follow us on Twitter for updates and announcements!
-- [GitHub](https://github.com/Xieons-Gaming-Corner): Explore our projects and repositories on GitHub!
-- [YouTube](http://yt.xieon.co): Subscribe to our YouTube channel for videos and content!
-- [TikTok](http://www.tiktok.com/@XieonGaming): Check out or newest platform for gaming clips & demonstration of tech on TikTok
+> - [Discord](https://discord.gg/xieon): Join our vibrant Discord community!
+> - [Twitch](http://twitch.xieon.co): Watch our live streams on Twitch!
+> - [Twitter](https://twitter.com/XieonGaming): Follow us on Twitter for updates and announcements!
+> - [GitHub](https://github.com/Xieons-Gaming-Corner): Explore our projects and repositories on GitHub!
+> - [YouTube](http://yt.xieon.co): Subscribe to our YouTube channel for videos and content!
+> - [TikTok](http://www.tiktok.com/@XieonGaming): Check out or newest platform for gaming clips & demonstration of tech on TikTok
 
 
 #  👾 Xieon's Gaming Corner! 👾
@@ -27,7 +27,8 @@ Greetings from Xieon's Gaming Corner! We are more than just a gaming community; 
 
 > * In summary, at Xieon's Gaming Corner, we prioritize fair play, sportsmanship, and honesty in all aspects of our community and associated games, fostering an environment where members can enjoy gaming responsibly and respectfully.
 
-
+# Public Repositories: 
+> * [Gen 9 All Balls .png Collection](https://github.com/Xieons-Gaming-Corner/balls/tree/main)
 
 ## About Us 🎮
 
@@ -41,17 +42,15 @@ Greetings from Xieon's Gaming Corner! We are more than just a gaming community; 
 
 Meet the leaders shaping the XGC experience:
 
-* **⭐ Xieon [Owner and Founder]**
-* **⭐ Rich [Co-Owner]**
-* **⭐ Mike [Admin and Head of XGC Graphics]**
-* **⭐ Nyx [Twitch Head Moderator and Admin Support]**
-* **⭐ Hammersmith [Head of XGC's Pokemon Go Community & Admin Support]**
-
+> * **⭐ Xieon [Owner and Founder]**
+> * **⭐ Rich [Co-Owner]**
+> * **⭐ Mike [Admin and Head of XGC Graphics]**
 All staff members have a ⭐ leading their server nickname and trailing brackets [ ] with their title:
 
-* **Green usernames** for the highest-ranking management.
-* *Red usernames* for management staff.
-* _Blue usernames_ for all other staff, including full staff, moderators, retired staff with permissions, and whitelisted staff from other servers.
+Discord username~staff correlation: 
+> * **Green usernames** for the highest-ranking management.
+> * *Red usernames* for management staff.
+> * _Blue usernames_ for all other staff, including full staff, moderators, retired staff with permissions, and whitelisted staff from other servers.
 
 
 # Community Discord for XGC
@@ -73,19 +72,21 @@ While we're not just a "Pokemon Server," Pokemon is a big part of our identity. 
 > * DOOM: The Shroom Slayer saga, connecting Doom and our Breloom mascot
 > * Emulation and ROM's: Supporting video game archiving, retro gaming, and discussions on ROM's & Emulators.
 
-## Artwork 🎨
+## Artwork & Custom Region Merchandise 🎨
 
-Art is at our core, with a focus on creativity and expression:
+Art is at our core, with a focus on creativity and expression - XGC is funded by its members - we don't simply want to take donations, but rather if possible offer perks, or thanks you in return including custom roles & icons in the XGC Discord server - as well as custom artwork from Mike or Dave -
 
-* **Mike's Graphics:** From 3D printing to merch designs
-* **Xieon's AI Art:** Experimenting with AI to create anime characters based on Pokemon traits
+> * **Mike's Graphics:** From 3D printing to merch designs
+> * * Mike is currently heading up a project with XGC that is a FanMade Pokemon Inspired region - this region will be created in the imaginations of the minds of the users of Xieon's Gaming Corner - and brought to life through various artistic styles from Mike that range from digital art to physically 3d printed items, and various other artistic mediums. 
+> * **Xieon's AI Art:** Experimenting with AI to create anime characters basep on Pokemon traits
+> * * Xieon's artwork is intended for maturre audiences - and you must be 18 or older, verify your age, and opt in to the 18+ section of Xieon's Gaming Corner - 
 
 ## Advancing Technologies (AI / Crypto)
 XGC tries to stay on the bleeding edge of technology for both gaming, and broader applications outside of the gaming niche. Two large branches of the rapidbly advancing bleeding edge of tech include: 
 > * Artifical intelligence / machine learning / AGI / Neural Networking
 > * Crytocurrency including NFT's (both in use-case and discussion)  & associated cryptographical computational elements
 > * * These areas can be both exciting, and horrifying, open up new possibilities for experiences, and quickly end your ability to access or realize them - with such knowledge we try to approach these technologies with both awe & caution. We want our users to experience the bleeding edge of technology, while cautioning of the what should be obvious perils of walking on the bleeding edge of a knife - you might get cut - We will try to provide guidance, and tools within these novel tech fields
-> * * * [Crypto Public Tool List & Addresses](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
+> * * [Crypto Public Tool List & Addresses](https://github.com/Xieons-Gaming-Corner/public/blob/main/cryptotools.md)
 
 ## XGC Sponsors Only Repository 
 > * Sponsors of XGC will have access to a private repository within the XGC Organization Github - 
@@ -93,7 +94,7 @@ XGC tries to stay on the bleeding edge of technology for both gaming, and broade
 ## XGC After Dark 🔞
 
 * For mature content enthusiasts, we have XGC After Dark, an exclusive section for our members aged 18 and above. To access XGC After Dark, you are required to have a phone linked to your Twitch for added protection.
-
+* XGC After Art Features mature artwork, and discussion of mature content, additionally you must confirm you age to access XGC's Anime & Manga discussions. 
 ## Connect With Us through the XGC Ecosystem🌐
 
 Follow us on different platforms to stay updated and engaged:
@@ -103,6 +104,8 @@ Follow us on different platforms to stay updated and engaged:
 > - **GitHub**: [Explore our projects on GitHub](https://github.com/Xieons-Gaming-Corner)
 > - **YouTube**: [Subscribe to our YouTube channel](http://yt.xieon.co)
 > - **Twitch**: [Watch us on Twitch](http://twitch.xieon.co)
+> * **TikTok**: [Watch us on TikTok](https://tiktok.com/@XieonsGamingCorner)
+
 
 
 ## Special Thanks to other Developers: 
