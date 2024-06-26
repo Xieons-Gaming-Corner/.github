@@ -28,7 +28,7 @@ Greetings from Xieon's Gaming Corner! We are more than just a gaming community; 
 > * In summary, at Xieon's Gaming Corner, we prioritize fair play, sportsmanship, and honesty in all aspects of our community and associated games, fostering an environment where members can enjoy gaming responsibly and respectfully.
 
 # Public Repositories: 
-> * [Gen 9 All Balls .png Collection](https://github.com/Xieons-Gaming-Corner/balls/tree/main)
+> * [Gen 9 All Balls .png Collection](https://github.com/Xieons-Gaming-Corner/balls/tree/main) / [Download the .Zip Ball Release](https://github.com/Xieons-Gaming-Corner/balls/releases/tag/Balls1)
 
 ## About Us 🎮
 
