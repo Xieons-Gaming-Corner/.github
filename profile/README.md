@@ -98,7 +98,7 @@ XGC tries to stay on the bleeding edge of technology for both gaming, and broade
 ## Connect With Us through the XGC Ecosystem🌐
 
 Follow us on different platforms to stay updated and engaged:
-
+![image](https://github.com/Xieons-Gaming-Corner/.github/blob/main/profile/repository-open-graph-template.png)
 > - **Discord**: [Join our Discord community](https://discord.gg/xieon)
 > - **Twitter**: [Follow us on Twitter](https://twitter.com/XieonGaming)
 > - **GitHub**: [Explore our projects on GitHub](https://github.com/Xieons-Gaming-Corner)
