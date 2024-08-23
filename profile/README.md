@@ -96,9 +96,10 @@ XGC tries to stay on the bleeding edge of technology for both gaming, and broade
 * For mature content enthusiasts, we have XGC After Dark, an exclusive section for our members aged 18 and above. To access XGC After Dark, you are required to have a phone linked to your Twitch for added protection.
 * XGC After Art Features mature artwork, and discussion of mature content, additionally you must confirm you age to access XGC's Anime & Manga discussions. 
 ## Connect With Us through the XGC Ecosystem🌐
+![Card](https://github.com/Xieons-Gaming-Corner/.github/blob/main/profile/repository-open-graph-template.png)
 
 Follow us on different platforms to stay updated and engaged:
-![image](https://github.com/Xieons-Gaming-Corner/.github/blob/main/profile/repository-open-graph-template.png)
+
 > - **Discord**: [Join our Discord community](https://discord.gg/xieon)
 > - **Twitter**: [Follow us on Twitter](https://twitter.com/XieonGaming)
 > - **GitHub**: [Explore our projects on GitHub](https://github.com/Xieons-Gaming-Corner)
