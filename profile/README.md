@@ -1,4 +1,5 @@
 # LANDING ZONE: You've been cleared for landing by XGC 🛬
+[![Discord Widget](https://discord.com/api/guilds/829181609156411463/widget.png?style=banner2)](https://discord.gg/Xieon)
 
 ## Xieon's Gaming Corner Social Media and Operating Platforms
 Please select your target destination to fast travel to that location:
