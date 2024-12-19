@@ -26,8 +26,6 @@
 
 #  👾 Xieon's Gaming Corner! 👾
 ## XGC's Social Media & Ecosystem
-![XGC Banner](https://avatars.githubusercontent.com/u/150181405?s=200&v=4) <!-- Replace with an actual banner image -->
-
 Stay connected via our official channels:  
 
 - [![YouTube](https://img.shields.io/badge/YouTube-XieonGaming-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@XieonGaming)
