@@ -2,14 +2,27 @@
 [![Discord Widget](https://discord.com/api/guilds/829181609156411463/widget.png?style=banner2)](https://discord.gg/Xieon)
 
 ## Xieon's Gaming Corner Social Media and Operating Platforms
-Please select your target destination to fast travel to that location:
+## XGC Management Team  
 
-> - [Discord](https://discord.gg/xieon): Join our vibrant Discord community!
-> - [Twitch](http://twitch.xieon.co): Watch our live streams on Twitch!
-> - [Twitter](https://twitter.com/XieonGaming): Follow us on Twitter for updates and announcements!
-> - [GitHub](https://github.com/Xieons-Gaming-Corner): Explore our projects and repositories on GitHub!
-> - [YouTube](http://yt.xieon.co): Subscribe to our YouTube channel for videos and content!
-> - [TikTok](http://www.tiktok.com/@XieonGaming): Check out or newest platform for gaming clips & demonstration of tech on TikTok
+| Name                 | Role                                 | GitHub Profile                                                   |
+|----------------------|-------------------------------------|-----------------------------------------------------------------|
+| **Xieon**           | Owner / Founder / Lead Developer    | [Xieon](https://github.com/Xieon)                              |
+| **RichXGC95**       | Co-Owner                            | [RichXGC95](https://github.com/RichXGC95)                      |
+| **TwiztidKreations** | Head of Graphics                   | [TwiztidKreations](https://github.com/TwiztidKreations)        |
+| **Ashke**           | Admin                               | [Ashke](https://github.com/orgs/Xieons-Gaming-Corner/people/Ashke0521) |
+
+---
+
+## XGC Administrator Support Team & Moderator Team  
+
+| Name                 | Role                                 | GitHub Profile                                                   |
+|----------------------|-------------------------------------|-----------------------------------------------------------------|
+| **Astralflyer01**    | Head of Moderation                 | [Astralflyer01](https://github.com//Astralflyer01)             |
+| **KajeTheCat**       | Junior DevOps / Moderator          | [KajeTheCat](https://github.com/KajeTheCat)                    |
+| **Stephen G**        | Admin Support                      | [Stephen G](https://github.com/orgs/Xieons-Gaming-Corner/people/r5guerrero) |
+| **Wrath-EX**         | DevOps                             | [Wrath-EX](https://github.com/Wrath-EX)                        |
+
+---
 
 
 #  👾 Xieon's Gaming Corner! 👾
