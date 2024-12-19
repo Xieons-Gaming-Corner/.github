@@ -1,20 +1,42 @@
 # LANDING ZONE: You've been cleared for landing by XGC 🛬
 [![Discord Widget](https://discord.com/api/guilds/829181609156411463/widget.png?style=banner2)](https://discord.gg/Xieon)
 
-## Xieon's Gaming Corner Social Media and Operating Platforms
-Please select your target destination to fast travel to that location:
+## XGC Management Team  
 
-> - [Discord](https://discord.gg/xieon): Join our vibrant Discord community!
-> - [Twitch](http://twitch.xieon.co): Watch our live streams on Twitch!
-> - [Twitter](https://twitter.com/XieonGaming): Follow us on Twitter for updates and announcements!
-> - [GitHub](https://github.com/Xieons-Gaming-Corner): Explore our projects and repositories on GitHub!
-> - [YouTube](http://yt.xieon.co): Subscribe to our YouTube channel for videos and content!
-> - [TikTok](http://www.tiktok.com/@XieonGaming): Check out or newest platform for gaming clips & demonstration of tech on TikTok
+| Name                 | Role                                 | GitHub Profile                                                   |
+|----------------------|-------------------------------------|-----------------------------------------------------------------|
+| **Xieon**           | Owner / Founder / Lead Developer    | [Xieon](https://github.com/Xieon)                              |
+| **RichXGC95**       | Co-Owner                            | [RichXGC95](https://github.com/RichXGC95)                      |
+| **TwiztidKreations** | Head of Graphics                   | [TwiztidKreations](https://github.com/TwiztidKreations)        |
+| **Ashke**           | Admin                               | [Ashke](https://github.com/orgs/Xieons-Gaming-Corner/people/Ashke0521) |
+
+---
+
+## XGC Administrator Support Team & Moderator Team  
+
+| Name                 | Role                                 | GitHub Profile                                                   |
+|----------------------|-------------------------------------|-----------------------------------------------------------------|
+| **Astralflyer01**    | Head of Moderation                 | [Astralflyer01](https://github.com//Astralflyer01)             |
+| **KajeTheCat**       | Junior DevOps / Moderator          | [KajeTheCat](https://github.com/KajeTheCat)                    |
+| **Stephen G**        | Admin Support                      | [Stephen G](https://github.com/orgs/Xieons-Gaming-Corner/people/r5guerrero) |
+| **Wrath-EX**         | DevOps                             | [Wrath-EX](https://github.com/Wrath-EX)                        |
+
+---
 
 
 #  👾 Xieon's Gaming Corner! 👾
-
+## XGC's Social Media & Ecosystem
 ![XGC Banner](https://avatars.githubusercontent.com/u/150181405?s=200&v=4) <!-- Replace with an actual banner image -->
+
+Stay connected via our official channels:  
+
+- [![YouTube](https://img.shields.io/badge/YouTube-XieonGaming-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@XieonGaming)
+- [![Twitter](https://img.shields.io/badge/Twitter-XieonGaming-blue?style=for-the-badge&logo=twitter)](https://twitter.com/XieonGaming)
+- [![Instagram](https://img.shields.io/badge/Instagram-XieonsGamingCorner-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/xieonsgamingcorner).
+- [![Discord](https://img.shields.io/badge/Discord-discord.gg/Xieon-blue?style=for-the-badge&logo=discord)](https://discord.gg/Xieon)
+- [![Twitch](https://img.shields.io/badge/Twitch-Xieon-purple?style=for-the-badge&logo=twitch)](https://www.twitch.tv/xieon)
+- [![Kick](https://img.shields.io/badge/Kick-Xieon-green?style=for-the-badge)](https://kick.com/Xieon)
+- [![TikTok](https://img.shields.io/badge/TikTok-XieonGaming-blue?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@xieonsgamingcorner)
 
 Greetings from Xieon's Gaming Corner! We are more than just a gaming community; we're a diverse group of gamers, hobbyists, artists, and developers united to create memorable experiences. Our community is supported by our dedicated staff, and we appreciate any contributions from our members.
 
@@ -57,10 +79,7 @@ Discord username~staff correlation:
 # Community Discord for XGC
 For real-time interaction, spot the green, red, or blue usernames in our [Community Discord](https://discord.gg/xieon). Our management team operates in a hierarchical order, ensuring a smooth and exciting experience for our members.
 
-Click the image below to join our Discord server:
-
-> * [![Join XGC Discord](https://avatars.githubusercontent.com/u/150181405?s=200&v=4)](https://discord.gg/xieon)
-
+Click to join the official [Xieon's Gaming Corner Discord Community - Discord.gg/Xieon](https://discord.gg/xieon) 
 
 ## XGC Featured Games 🕹️
 
