@@ -59,20 +59,6 @@ Greetings from Xieon's Gaming Corner! We are more than just a gaming community; 
 
 * XGC is based out of the United States, so we must follow certain guidelines, and minors under the age of 13 cannot use our services, including Discord and Twitch.
 
-## XGC Management Staff 👥
-
-Meet the leaders shaping the XGC experience:
-
-> * **⭐ Xieon [Owner and Founder]**
-> * **⭐ Rich [Co-Owner]**
-> * **⭐ Mike [Admin and Head of XGC Graphics]**
-All staff members have a ⭐ leading their server nickname and trailing brackets [ ] with their title:
-
-Discord username~staff correlation: 
-> * **Green usernames** for the highest-ranking management.
-> * *Red usernames* for management staff.
-> * _Blue usernames_ for all other staff, including full staff, moderators, retired staff with permissions, and whitelisted staff from other servers.
-
 
 # Community Discord for XGC
 For real-time interaction, spot the green, red, or blue usernames in our [Community Discord](https://discord.gg/xieon). Our management team operates in a hierarchical order, ensuring a smooth and exciting experience for our members.
