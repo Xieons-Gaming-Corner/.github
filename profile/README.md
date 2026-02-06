@@ -3,11 +3,13 @@
 
 ## XGC Management Team  
 
-| Name                 | Role                                 | GitHub Profile                                                   |
+| Name                 | Role(s)                                | GitHub Profile                                                   |
 |----------------------|-------------------------------------|-----------------------------------------------------------------|
-| **Xieon**           | Owner / Founder / Lead Developer    | [Xieon](https://github.com/Xieon)                              
-| **TwiztidKreations** | Head of Graphics                   | [TwiztidKreations](https://github.com/TwiztidKreations)        |
-| **Ashke**           | Admin                               | [Ashke](https://github.com/orgs/Xieons-Gaming-Corner/people/Ashke0521) |
+| **Xieon**           | Owner / Founder / Lead Developer #1 Staff     | [Xieon](https://github.com/Xieon)                              |
+| **Ashke**           | Full Admin / Co-owner # 2 Below Xieon                               | [Ashke](https://github.com/orgs/Xieons-Gaming-Corner/people/Ashke0521) |
+| **TwiztidKreations** | Head of Graphics # 3 Head of GFX for XGC - Head of Eonix Region Card Game - Full Admin                  | [TwiztidKreations](https://github.com/TwiztidKreations)        |
+| **KajeTheCat**       | Junior Admin / Moderator \ Dev Ops Lead Staff Member         | [KajeTheCat](https://github.com/KajeTheCat)                    |
+
 
 ---
 
@@ -16,8 +18,7 @@
 | Name                 | Role                                 | GitHub Profile                                                   |
 |----------------------|-------------------------------------|-----------------------------------------------------------------|
 | **Astralflyer01**    | Head of Moderation                 | [Astralflyer01](https://github.com//Astralflyer01)             |
-| **KajeTheCat**       | Junior DevOps / Moderator          | [KajeTheCat](https://github.com/KajeTheCat)                    |
-| **Stephen G**        | Admin Support                      | [Stephen G](https://github.com/orgs/Xieons-Gaming-Corner/people/r5guerrero) |
+| **Stephen G**        | Admin Support / Pokemon Go Community Manager | [Stephen G](https://github.com/orgs/Xieons-Gaming-Corner/people/r5guerrero) |
 | **Wrath-EX**         | DevOps                             | [Wrath-EX](https://github.com/Wrath-EX)                        |
 
 ---
