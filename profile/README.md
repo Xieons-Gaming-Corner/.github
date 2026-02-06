@@ -5,8 +5,7 @@
 
 | Name                 | Role                                 | GitHub Profile                                                   |
 |----------------------|-------------------------------------|-----------------------------------------------------------------|
-| **Xieon**           | Owner / Founder / Lead Developer    | [Xieon](https://github.com/Xieon)                              |
-| **RichXGC95**       | Co-Owner                            | [RichXGC95](https://github.com/RichXGC95)                      |
+| **Xieon**           | Owner / Founder / Lead Developer    | [Xieon](https://github.com/Xieon)                              
 | **TwiztidKreations** | Head of Graphics                   | [TwiztidKreations](https://github.com/TwiztidKreations)        |
 | **Ashke**           | Admin                               | [Ashke](https://github.com/orgs/Xieons-Gaming-Corner/people/Ashke0521) |
 
